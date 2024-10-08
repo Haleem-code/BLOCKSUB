@@ -1,0 +1,18 @@
+[submodule "Website"]
+	path = Website
+	url = https://github.com/Haleem-code/BLOCKSUB_
+[submodule "Platforms_Dashboard"]
+	path = Platforms_Dashboard
+	url = https://github.com/Haleem-code/blocksub_dashboard
+[submodule "smart_contract"]
+	path = smart_contract
+	url = https://github.com/oseniabdulhaleem/Blocksub-contract
+[submodule "Blocksub_Dashboard"]
+	path = Blocksub_Dashboard
+	url = https://github.com/Haleem-code/admin-blocksub
+[submodule "Blocksub_SDK"]
+	path = Blocksub_SDK
+	url = https://github.com/oseniabdulhaleem/Blocksub-SDK
+[submodule "Demo_App"]
+	path = Demo_App
+	url = https://github.com/Haleem-code/demo-blocksub
